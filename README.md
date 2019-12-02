@@ -15,6 +15,9 @@ The data is downloaded from kaggle [Great Energy Predictor III](https://www.kagg
 
 
 ## Data Prepocessing
+     -[First look](https://github.com/JiaqiCChen123/energy-comsumption-prediction/blob/master/First_look.ipynb)
+Firstly we take a general look into the raw data
+
 ## Feature Engineering
 ## Modeling
 ## Model Evaluation
