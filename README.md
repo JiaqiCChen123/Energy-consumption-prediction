@@ -20,7 +20,7 @@ The data is downloaded from kaggle [Great Energy Predictor III](https://www.kagg
 Firstly we take a general look into the raw data, and we find that there are **missing values** upon several feature about weather information. 
 As for the meter_reading, we find nearly **1/10 of the whole observation has zero values**, which is suspectable.
 
- - [Data_visualization](https://github.com/JiaqiCChen123/energy-comsumption-prediction/blob/master/First_look.ipynb)
+ - [Data_visualization](https://github.com/JiaqiCChen123/energy-comsumption-prediction/blob/master/VIsualization%20and%20prepoccessing%201.ipynb)
  
  Then we do some basic visualization upon the raw data, from which we find that:
     - There are 
