@@ -30,9 +30,9 @@ In this plot, we observe the general meter_reading pattern of different building
   - [Data Processing and Feature Engineering](https://github.com/JiaqiCChen123/energy-comsumption-prediction/blob/master/FE.ipynb)
   Previously, when we did data visualization, we already finish some feature engineering. Here, we further implement some feature engineering towards the whole dataset (such as missing value imputation and outlier detection.)
  
-## Modeling and Evaluatin
+## Modeling and Evaluation
 - [modeling](https://github.com/JiaqiCChen123/energy-comsumption-prediction/blob/master/model.ipynb)
-In this part, we basically intriduce two methods. One is linear regression and another one is Random Forest. We use RMSE to measure model performance.
+In this part, we conclude what we have done (data perpossessing and feature engineering); after that, we basically introduce two methods. One is linear regression and another one is Random Forest. We use RMSE to measure model performance.
 As is seen, the tree based model berforms better here.
 
 
