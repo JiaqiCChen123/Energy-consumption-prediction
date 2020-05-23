@@ -1,5 +1,4 @@
-# energy-comsumption-prediction
-Group members: Geoffrey Hung, Jiaqi Chen, Wendeng Hu
+# Energy-comsumption-prediction
 
 ## Table of Contents
 * Introduction
